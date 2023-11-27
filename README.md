@@ -105,9 +105,25 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 ## 💻 Built with
 
-- [React Native]([https://dotnet.microsoft.com/pt-br/](https://www.php.net))
-- [Expo](https://visualstudio.microsoft.com)
-- [XAMPP] ([https://www.apachefriends.org])
+- [React Native](https://reactnative.dev) v0.72.5
+- [Expo](https://expo.dev) v49.0.3
+- [Firebase](https://firebase.google.com) v10.6.0
+- [React Navigation](https://reactnavigation.org) v6.6.4
+- [Expo Camera](https://docs.expo.dev/versions/latest/sdk/camera/) v13.6.0
+- [Expo Font](https://docs.expo.dev/versions/latest/sdk/font/) v11.4.0
+- [Expo Image Picker](https://docs.expo.dev/versions/latest/sdk/imagepicker/) v14.5.0
+- [Expo Status Bar](https://docs.expo.dev/versions/latest/sdk/status-bar/) v1.6.0
+- [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/) v2.12.0
+- [React Native Image Picker](https://github.com/react-native-image-picker/react-native-image-picker) v7.0.3
+- [React Native Modern Datepicker](https://github.com/henninghall/react-native-modern-datepicker) v1.0.0-beta.91
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) v3.3.0
+- [React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context) v4.6.3
+- [React Native Screens](https://github.com/software-mansion/react-native-screens) v3.22.0
+- [React Native SVG](https://github.com/react-native-svg/react-native-svg) v14.0.0
+- [React Native SVG Charts](https://github.com/JesperLekland/react-native-svg-charts) v5.4.0
+- [React Native Web](https://necolas.github.io/react-native-web) v0.19.6
+- [TypeScript](https://www.typescriptlang.org) v5.1.3
+
 
 ## 🙏 Support
 
@@ -134,15 +150,46 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 					<sub><b>Lucas Martins da Silva Sena</b></sub>
 				</a>
 		</th>
+		<th align="center">
+				<a href="https://github.com/JessieStark">
+					<sub><b>Jessie Stark</b></sub>
+				</a>
+		</th>
+		<th align="center">
+				<a href="https://github.com/L4arbac">
+					<sub><b>L4arbac</b></sub>
+				</a>
+		</th>
+		<th align="center">
+				<a href="https://github.com/GuziH">
+					<sub><b>GuziH</b></sub>
+				</a>
+		</th>
   	</tr>
  	<tr>
 		<td align="center">
 			<a href="https://github.com/lukreitor">
-				<img src="https://avatars.githubusercontent.com/lukreitor" width="100px" alt="Your Avatar"/>
+				<img src="https://avatars.githubusercontent.com/lukreitor" width="100px" alt="Lucas Martins da Silva Sena"/>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/JessieStark">
+				<img src="https://avatars.githubusercontent.com/JessieStark" width="100px" alt="Jessie Stark"/>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/L4arbac">
+				<img src="https://avatars.githubusercontent.com/L4arbac" width="100px" alt="L4arbac"/>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/GuziH">
+				<img src="https://avatars.githubusercontent.com/GuziH" width="100px" alt="GuziH"/>
 			</a>
 		</td>
 	</tr>
 </table>
+
 
 ## Questions and Feedback
 
